@@ -7,6 +7,7 @@ public class P1_main {
         Scanner scanner = new Scanner(System.in);
         String zeile = new String();
         zeile = scanner.nextLine();
+        System.out.println(zeile);
         scanner.close();
     }
 }
